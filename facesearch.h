@@ -12,8 +12,8 @@
 #include <QJsonArray>
 
 #define SEARCH_API "https://api-cn.faceplusplus.com/facepp/v3/search"
-#define KEY "NJQdCeNOP9wBVowR2QassVqnXk95G933"
-#define SECRET "iWDX7orR0IQfjYGlleHi_4LQfmyPzzgf"
+#define KEY "hi use your own key"
+#define SECRET "hi use yur own secret"
 #define OUTER_ID "myfaceset"
 #define FACESET_TOKEN "560fa910f1db44d40de52bd89703af5c"
 
