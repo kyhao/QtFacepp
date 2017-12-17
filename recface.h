@@ -16,8 +16,8 @@
 #define TPATH "./temp.jpg"
 #define DETECT_API "https://api-cn.faceplusplus.com/facepp/v3/detect"
 #define SEARCH_API "https://api-cn.faceplusplus.com/facepp/v3/search"
-#define KEY "NJQdCeNOP9wBVowR2QassVqnXk95G933"
-#define SECRET "iWDX7orR0IQfjYGlleHi_4LQfmyPzzgf"
+#define KEY "hi use your own face"
+#define SECRET "hi use your own secret"
 
 class Recface : public QObject
 {
